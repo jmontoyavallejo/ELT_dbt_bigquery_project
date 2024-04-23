@@ -4,7 +4,7 @@ This repository provides a set of tools and resources to streamline your data tr
 
 ## Bigquery Datalake
 
-![Image Title](assets\bigquery.png)
+![Image Title](assets\images\bigquery.png)
 
 ## Installation
 
@@ -23,25 +23,25 @@ Once you've installed the project and configured your dbt profile, you can start
 
 The `dbt run` command executes all models in the project:
 
-![Image Title](assets\dbt_run.png)
+![Image Title](assets\images\dbt_run.png)
 
 ### 2. `dbt test`
 
 The `dbt test` command runs tests on the defined models:
 
-![Image Title](assets\tests.png)
+![Image Title](assets\images\tests.png)
 
 ### 3. `dbt docs generate`
 
-The `dbt docs generate` command generates documentation for your project with json/html format:
+The `dbt docs generate` command generates documentation for your project with json format:
 
-![Image Title](assets\generate_docs.png)
+![Image Title](assets\images\generate_docs.png)
 
 ### 4. `dbt docs serve`
 
 The `dbt docs serve` command serves the documentation locally for browsing and sharing:
 
-![Image Title](assets\docs.png)
+![Image Title](assets\images\docs.png)
 
 ## Contributing
 
