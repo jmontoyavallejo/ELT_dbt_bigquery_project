@@ -1,1 +1,1 @@
-# dbt_framework_proyect
+# dbt_framework_project
